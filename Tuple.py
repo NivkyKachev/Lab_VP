@@ -1,8 +1,8 @@
 print("Въведи число:")
 num = int(input())
 
-tuple1 = ()
-tuple2 = ()
+tuple1 = tuple()
+tuple2 = tuple()
 
 k = str(num)
 for i in k:

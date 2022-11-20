@@ -4,12 +4,12 @@ def square():
 
 def rectangle():
     n = float(input("Enter a number:"))
-    m = float(input("Enter second number:"))
+    m = float(input("Enter a second number:"))
     print(n*m)
 
 def triangle():
     n = float(input("Enter a number:"))
-    m = float(input("Enter second numbe:"))
+    m = float(input("Enter a second numbe:"))
     print((n*m)/2)
 
 x = int(input("Enter a number:"))
